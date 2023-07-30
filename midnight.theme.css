@@ -9,7 +9,7 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!! */
 
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://raw.githubusercontent.com/NitrolessWasTaken/midnight-discord/master/midnight.css');
 
 /* change colors and variables here */
 :root {
@@ -21,7 +21,7 @@
 	/* color of links */
 	--accent-1: hsl(190, 70%, 60%);
 	/* color of unread dividers and some indicators */
-	--accent-2: hsl(190, 70%, 50%);
+	--accent-2: hsl(0, 80%, 80%);
 	/* color of accented buttons */
 	--accent-3: hsl(190, 70%, 40%);
 	/* color of accented buttons when hovered */
