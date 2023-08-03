@@ -1,21 +1,30 @@
 <img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/7ab9402b-d987-42c5-b9bf-7ea144edfad9">
 
-# midnight
+# Crimson Night
 
 A darkened discord theme with rounded chat and sidebars.
 
-<img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/f6b8c3ac-59e0-405c-b247-092232c21052">
+<img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/06352e42-5e96-4c1c-a941-19545d5acd8c">
 
-## install
+## Install
 
-Download from <https://betterdiscord.app/theme/midnight> or download this repo.
+IMPORTANT: Make sure to enable dark mode in discord settings for the theme to apply properly!!
 
-Put the `midnight.theme.css` or `midnight-classic.theme.css` files into your betterdiscord (or other client) theme folder.
+### BetterDiscord
 
-IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!
+1. Download `midnight.theme.css`
+2. Put it into your themes folder
+3. Go to settings and enable the theme
 
-## credits
+### Vencord
 
-original design inspired by <https://github.com/schnensch0/zelk>
+1. Click on `midnight.theme.css`
+2. Click on `Raw`
+3. Copy the link address
+4. Paste it into the text box in theme settings
+5. Unfocus text box
 
-window controls from <https://github.com/Dyzean/Tokyo-Night>
+
+## Credits
+
+Original theme and credits at <https://github.com/refact0r/midnight-discord>
