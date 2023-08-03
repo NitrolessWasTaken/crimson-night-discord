@@ -1,4 +1,4 @@
-<img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/7ab9402b-d987-42c5-b9bf-7ea144edfad9">
+<img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/4e0317ff-28b4-479f-b6c2-ca4697893f9d">
 
 # Crimson Night
 
