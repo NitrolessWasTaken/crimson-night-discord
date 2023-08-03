@@ -19,7 +19,7 @@
 	--roundness: 16px;
 
 	/* color of links */
-	--accent-1: hsl(100, 100%, 70%);
+	--accent-1: hsl(0, 80%, 60%);
 	/* color of unread dividers and some indicators */
 	--accent-2: hsl(0, 60%, 55%);
 	/* color of accented buttons */
