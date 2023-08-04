@@ -335,7 +335,7 @@
 	transform: scale(1);
 }
 
-.theme-dark .emptyPage-2TGR7j, .theme-dark .scrollerContainer-y16Rs9 {
+.scrollerContainer-y16Rs9 {
     background-color: var(--bg-3);
 }
 
