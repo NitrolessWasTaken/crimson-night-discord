@@ -14,13 +14,13 @@ IMPORTANT: Make sure to enable dark mode in discord settings for the theme to ap
 
 ### BetterDiscord
 
-1. Download `midnight.theme.css`
+1. Download `crimson-night.theme.css`
 2. Put it into your themes folder
 3. Go to settings and enable the theme
 
 ### Vencord
 
-1. Click on `midnight.theme.css`
+1. Click on `crimson-night.theme.css`
 2. Click on `Raw`
 3. Copy the link address
 4. Paste it into the text box in theme settings
