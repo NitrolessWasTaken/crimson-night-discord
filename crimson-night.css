@@ -335,10 +335,6 @@
 	transform: scale(1);
 }
 
-.scrollerContainer-y16Rs9 {
-    background-color: var(--bg-3);
-}
-
 .theme-dark {
 	--activity-card-background: blue;
 	--android-navigation-bar-background: blue;
