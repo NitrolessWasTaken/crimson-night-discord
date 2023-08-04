@@ -2,9 +2,11 @@
 
 # Crimson Night
 
-A darkened discord theme with rounded chat and sidebars.
+A modification of a darkened discord theme with rounded chat and sidebars.
 
-<img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/06352e42-5e96-4c1c-a941-19545d5acd8c">
+<img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/1ee07e2d-97b7-41e1-a3c1-5183a2c0c8c1">
+
+**Plugins not included*
 
 ## Install
 
