@@ -1,6 +1,6 @@
 <img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/4e0317ff-28b4-479f-b6c2-ca4697893f9d">
 
-# Crimson Night
+# crimson night
 
 A modification of a darkened discord theme with rounded chat and sidebars.
 
