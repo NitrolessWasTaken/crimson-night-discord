@@ -20,11 +20,11 @@ IMPORTANT: Make sure to enable dark mode in discord settings for the theme to ap
 
 ### Vencord
 
-~~1. Click on `crimson-night.theme.css`~~
-~~2. Click on `Raw`~~
-~~3. Copy the link address~~
-~~4. Paste it into the text box in theme settings~~
-~~5. Unfocus text box~~
+1. ~~Click on `crimson-night.theme.css`~~
+2. ~~Click on `Raw`~~
+3. ~~Copy the link address~~
+4. ~~Paste it into the text box in theme settings~~
+5. ~~Unfocus text box~~
 
 It's actually the same as BetterDiscord now
 
