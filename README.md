@@ -2,32 +2,24 @@
 
 # crimson night
 
-A modification of a darkened discord theme with rounded chat and sidebars.
+balls
 
 <img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/1ee07e2d-97b7-41e1-a3c1-5183a2c0c8c1">
 
-**Plugins not included*
+**Plugins not included lol*
 
 ## Install
 
 IMPORTANT: Make sure to enable dark mode in discord settings for the theme to apply properly!!
 
-### BetterDiscord
+### For most clients
 
 1. Download `crimson-night.theme.css`
 2. Put it into your themes folder
 3. Go to settings and enable the theme
 
-### Vencord
-
-1. ~~Click on `crimson-night.theme.css`~~
-2. ~~Click on `Raw`~~
-3. ~~Copy the link address~~
-4. ~~Paste it into the text box in theme settings~~
-5. ~~Unfocus text box~~
-
-It's actually the same as BetterDiscord now
+If this isn't the case for you, you should know ho to do it yourself.
 
 ## Credits
 
-Original theme and credits at <https://github.com/refact0r/midnight-discord>
+Original theme and credits here: <https://github.com/refact0r/midnight-discord>
