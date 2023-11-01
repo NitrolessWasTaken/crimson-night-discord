@@ -2,7 +2,7 @@
  * @name crimson night
  * @description A darkened and modified discord theme.
  * @author Nitroless (original: refact0r)
- * @version 1.0.0
+ * @version 1.1.0
  * @source https://github.com/NitrolessWasTaken/crimson-night-discord
  * @authorId 372798939209924618
 */
@@ -60,4 +60,12 @@
 	--active: hsla(220, 20%, 40%, 0.2);
 	/* color of messages when hovered */
 	--message-hover: hsla(220, 0%, 0%, 0.1);
+
+	/* font */
+	--font-primary: 'figtree'; /* change to 'gg sans' for default discord font */
+	--font-display: 'figtree'; /* change to 'gg sans' for default discord font */
+
+	/* top left icon */
+	--moon-icon: block; /* change to 'none' to hide moon icon */
+	--discord-icon: none; /* change to 'block' to show default discord icon */
 }

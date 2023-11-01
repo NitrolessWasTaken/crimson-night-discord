@@ -8,7 +8,7 @@
 
 ## Install
 
-IMPORTANT: Make sure to enable dark mode in discord settings for the theme to apply properly!!
+*IMPORTANT: Make sure to enable dark mode in discord settings for the theme to apply properly!!*
 
 ### For most clients
 
