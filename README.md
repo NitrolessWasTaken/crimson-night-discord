@@ -1,3 +1,5 @@
+## actually nvm something broke + the original theme doesnt even look as it used to im done
+
 <img width=800 src="https://github.com/NitrolessWasTaken/crimson-night-discord/assets/81432274/4e0317ff-28b4-479f-b6c2-ca4697893f9d">
 
 # crimson night[^1]
